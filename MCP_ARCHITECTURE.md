@@ -13,7 +13,7 @@ These are standalone services that provide specific functionality:
 
 #### 🧮 Math Server (`mathserver.py`)
 - **Transport**: `stdio` (command-line communication)
-- **Tools**: 
+- **Tools**:
   - `add(a: int, b: int) -> int`
   - `subtract(a: int, b: int) -> int`
   - `multiply(a: int, b: int) -> int`
@@ -77,4 +77,4 @@ GROQ_API_KEY=your_groq_api_key
 WEATHERAPI_KEY=your_weatherapi_key
 ```
 
-This is a complete MCP implementation with real-world API integration! 🌟 
+This is a complete MCP implementation with real-world API integration! 🌟
